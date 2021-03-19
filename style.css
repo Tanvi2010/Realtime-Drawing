@@ -1,0 +1,32 @@
+.heading {
+    background-color:hotpink;
+    color: #ffffff;
+    font-family:Montserrat;
+    border-radius:30px;
+    margin:0px;
+    font-size: 30px;
+}
+
+.note {
+    background-color: #4ae2d3;
+    font-size:20px;
+    border-radius: 20px;
+  
+}
+
+.footer {
+  position:fixed;
+  text-align: center;
+  bottom: 0px;
+  width:100%;
+  background-color:plum;
+  color: #ffffff;
+}
+
+canvas{
+    border: 5px dashed lemonchiffon;
+}
+body {
+   background-image: url(background.jpg);
+   background-size:cover;
+}
